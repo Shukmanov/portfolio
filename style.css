@@ -1,0 +1,12 @@
+.gallery {
+  display: flex;
+  justify-content: center; /* ортасына */
+  gap: 30px;               /* арасы */
+  margin-top: 40px;
+}
+
+.gallery img {
+  width: 350px;            /* размер */
+  height: auto;
+  border-radius: 12px;
+}
